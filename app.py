@@ -1,6 +1,7 @@
 def main():
     print("Projeto da atividade de Design Profissional")
     print("Fluxo colaborativo com Git e GitHub")
+    print("Alteração realizada por Gabriel")
 
 print("ATIVIDADE DE GITHUB")
 print("-------------------")
