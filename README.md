@@ -18,6 +18,7 @@ profissionais de desenvolvimento utilizando Git e GitHub.
 - Python
 - Git
 - GitHub
+- VS Code
 
 ## Status
 
