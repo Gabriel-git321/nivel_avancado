@@ -1,6 +1,6 @@
 # Nível Avançado - Design Profissional
 
-Projeto desenvolvido para a atividade avaliativa de Design Profissional. Atualizando projeto, retirando conflito.
+Projeto desenvolvido para a atividade avaliativa de Design Profissional, segunda parte da atividade retirado conflito.
 
 ## Integrantes
 
@@ -18,6 +18,7 @@ profissionais de desenvolvimento utilizando Git e GitHub.
 - Python
 - Git
 - GitHub
+- VS Code
 
 ## Status
 
