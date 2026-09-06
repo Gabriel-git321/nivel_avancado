@@ -1,6 +1,6 @@
 # Nível Avançado - Design Profissional
 
-Projeto desenvolvido para a atividade avaliativa de Design Profissional.
+Projeto desenvolvido para a atividade avaliativa de Design Profissional. Atualizando projeto, retirando conflito.
 
 ## Integrantes
 
